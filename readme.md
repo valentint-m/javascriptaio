@@ -11,3 +11,7 @@ Starter readme
    ```
 
 3. You closed it
+
+# JavaScript All-in-One For Dummies
+
+I'm learning JavaScript, ..., from...
